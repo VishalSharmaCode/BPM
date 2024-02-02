@@ -2,10 +2,10 @@
 #include <IOXhop_FirebaseESP32.h>
 
 // Set these to run example.
-#define FIREBASE_HOST "https://angrakshak-731df-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define FIREBASE_AUTH "AIzaSyCppa8SZ2BwdpcWxRBrf9VhSS5u6u-up8s"
-#define WIFI_SSID "Redmi9"
-#define WIFI_PASSWORD "sharmaji"
+#define FIREBASE_HOST "Fire Base Host"
+#define FIREBASE_AUTH "Data Base key"
+#define WIFI_SSID "Wifi SSID"
+#define WIFI_PASSWORD "Wifi password"
 
 #include <Wire.h>
 #include "MAX30105.h"
